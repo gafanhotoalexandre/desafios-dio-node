@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "#/*": ["src/*"],
+      "#prompts/*": ["src/prompts/*"],
+      "#services/*": ["src/services/*"]
+    }
+  }
+}
